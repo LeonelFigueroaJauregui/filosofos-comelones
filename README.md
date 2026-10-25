@@ -98,7 +98,7 @@ Y en la **Parte 1**, los tiempos:
 Agrega aquí una captura de pantalla de la simulación, por ejemplo:
 
 ```markdown
-![Simulación](captura.png)
+![Simulación](ejecucion.png)
 ```
 
 ## 📚 Conceptos que se practican
